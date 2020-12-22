@@ -37,6 +37,9 @@ navigation:
 - text: Algebra
   url: algebra/
   internal: true
+#- text: Philosophy
+#  url: philosophy/
+#  internal: true
 #- text: DOCter Repo
 #  url: https://github.com/cfpb/DOCter
 #  internal: false
