@@ -12,16 +12,16 @@ Through writing students describe how the sides of their constructions relate to
 You can see that students were very creative with this project. Some even created objects that were not buildings or outdoor spaces, as in the lollipop and picture frame projects shown below. More projects with close up pictures of the text and drawings can be viewed by downloading the slideshow provided below the images.
 
 ### Project Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Rubric.pdf" target="_blank">Instructions and Rubric</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Drawing-Ex.pdf" target="_blank">Drawing Example</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials_student-work.ppsx" target="_blank">Slideshow of Student Work</a>
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Rubric.pdf" target="_blank">Instructions and Rubric</a><br />
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Drawing-Ex.pdf" target="_blank">Drawing Example</a><br />
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Get-Creative-with-Polynomials_student-work.ppsx" target="_blank">Slideshow of Student Work</a>
                                                                                                                       
 # Linear Systems Jeopardy
 
 I created this game using the Jeopardy template for Power Point® to help students review solving systems of linear equations. Divide the class into teams and play for a prize (extra credit points or homework pass).
 
 ### Presentation File
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Linear-Systems-Jeopardy.ppsx" target="_blank">Jeopardy PPSX</a>
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Linear-Systems-Jeopardy.ppsx" target="_blank">Jeopardy PPSX</a>
 
 # Graphing Linear Inequalities
 
@@ -37,29 +37,29 @@ Homework consists of a choice board with problems from three levels of difficult
 
 ### Lesson Files
 
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Lesson.pdf" target="_blank">Graphing Linear Inequalities Lesson Plan</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Lesson-Activity.pdf" target="_blank">Graphing Linear Inequalities Activity Instructions</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-HW-Choice-Brd.pdf" target="_blank">Graphing Linear Inequalities Homework Choice Board</a>
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Lesson.pdf" target="_blank">Graphing Linear Inequalities Lesson Plan</a><br />
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Lesson-Activity.pdf" target="_blank">Graphing Linear Inequalities Activity Instructions</a><br />
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Graphing-Linear-Inequalz-HW-Choice-Brd.pdf" target="_blank">Graphing Linear Inequalities Homework Choice Board</a>
 
 # Inequality Pattern Activity
 
 After a lesson on graphing linear inequalities, one student asked me if there was a pattern to the shading. He understood that the shading for a “greater than” inequality was above the line and that the shading for a “less than” inequality was below the line. What he did not understand was why some graphs had shading that extended to the left while others had shading that extended to the right. He asked if that had anything to do with the value of the slope. If the slope was negative, did that mean the shading went left?
 
-<img src="https://lisasteaching.github.io/portfolio_teaching/images/Graphing-Linear-Inequalz-Pattern.png" alt="Linear Inequality Pattern Sample" width="300" height="286" />
+<img src="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/images/Graphing-Linear-Inequalz-Pattern.png" alt="Linear Inequality Pattern Sample" width="300" height="286" />
 
 I used this opportunity to show students the pattern behind the four basic types of inequalities. In this activity, students graphed the four basic inequalities with boundary line y = x on one sheet of paper. With the paper folded in half, they graphed the two greater-than inequalities on one side and discussed that the sign of the slope determined the “rightness” or “leftness” of the shading. Then students flipped the paper over and graphed the two less-than inequalities. Students then realized that it was the direction of the inequality and the sign of the slope that determined the “rightness” or “leftness” of the shading.
 
 ### Activity Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Activity-Pattern.pdf" target="_blank">Activity Instructions</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Activity-Ex.pdf" target="_blank">Example of Completed Activity (graphite pencil)</a>
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Activity-Pattern.pdf" target="_blank">Activity Instructions</a><br />
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Activity-Ex.pdf" target="_blank">Example of Completed Activity (graphite pencil)</a>
                                                                                                                       
 # Special Systems Graphic Organizer
 
 During my student teaching, one student who was an English language learner struggled with the different types of lines and their respective equations. To help him process and remember the similarities and differences of parallel, perpendicular, and coincident lines, I created a graphic organizer (after an example in the textbook) where students could model these three concepts verbally, visually, and with formulas. Not everyone took advantage of this, however, the ELL student did fill it out and proceeded to get every related question on the test correct.
 
 ### Graphic Organizer Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Special-Systems-Graphic-Organizer.pdf" target="_blank">Special Systems Graphic Organizer</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Special-Systems-ELL-Graphic-Org-FH.pdf" target="_blank">ELL Student Response</a>
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Special-Systems-Graphic-Organizer.pdf" target="_blank">Special Systems Graphic Organizer</a><br />
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Special-Systems-ELL-Graphic-Org-FH.pdf" target="_blank">ELL Student Response</a>
 
 # Posttest Write About
 
@@ -68,9 +68,9 @@ The Posttest Write About for chapter 6 involved a word problem that engaged stud
 The Posttest Write Abouts are part of the curriculum at Fort Couch Middle School. The teachers grade the write abouts using the PSSA Mathematics General Rubric, which is a holistic rubric that measures the level of understanding exhibited by the student in the answer (advanced, excellent, satisfactory, almost satisfactory, and minimal understanding). My cooperating teacher suggested I create and use my own rubric without first seeing the PSSA rubric. I created an analytic rubric so I could give specific feedback on the solution and the explanation as well as award partial credit for answering only one of the questions asked in the problem. I awarded up to 3 points for problem accuracy and up to 2 points for the process description.
 
 ### Activity Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Posttest-Write-About.pdf" target="_blank">Instructions</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Posttest-Write-About-Rubric.pdf" target="_blank">Rubric</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Posttest-Write-About-StudentWK.pdf" target="_blank">Student Work</a>
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Posttest-Write-About.pdf" target="_blank">Instructions</a><br />
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Posttest-Write-About-Rubric.pdf" target="_blank">Rubric</a><br />
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Posttest-Write-About-StudentWK.pdf" target="_blank">Student Work</a>
 
 # Scientific Notation Webquest
 
@@ -80,5 +80,5 @@ This webquest is a fun way for students to recall scientific notation and its pu
 Some students were really involved in this activity and obviously had fun finding their facts. They found some really interesting ones such as the estimated number of blades of grass on the Earth, the number of gallons of water on the Earth, the radius of an electron, the number of individual M&Ms made per day, the number of people employed by McDonald's, etc. My students were very competitive and started competing for the largest and smallest numbers.
 
 ### Activity File
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Scientific-Notation-Webquest.pdf">Instructions and Worksheet</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Scientific-Notation-Student-Samples.pdf">Student Samples</a>
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Scientific-Notation-Webquest.pdf">Instructions and Worksheet</a><br/>
+<a href="https://lisasteaching.github.io/StudentTeaching/portfolio_teaching/algebra/Scientific-Notation-Student-Samples.pdf">Student Samples</a>
